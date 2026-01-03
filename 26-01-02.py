@@ -29,5 +29,4 @@ for i in s:
             q = find_t[idx]
     print(abs(k - j), end='')
     j += 1
-    
-    print("123")
+
