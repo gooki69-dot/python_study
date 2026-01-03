@@ -30,3 +30,4 @@ for i in s:
     print(abs(k - j), end='')
     j += 1
  
+print(123)
