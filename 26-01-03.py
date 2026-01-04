@@ -25,4 +25,4 @@ for i in range(0,5):
 print(f"\n왼쪽대각선합계 : {l_diag}\n오른쪽대각선합계 : {r_diag}")
 
 sum_list.sort(reverse=True)
-print(f"\n\n가장 큰 합계 {sum_list[0]}")
+print(f"\n\n가장 큰 합계 : {sum_list[0]}")
